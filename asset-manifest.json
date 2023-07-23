@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Instagram-Clone/static/css/main.faf9a41b.css",
+    "main.js": "/Instagram-Clone/static/js/main.07f72ebb.js",
+    "static/js/787.c1112931.chunk.js": "/Instagram-Clone/static/js/787.c1112931.chunk.js",
+    "static/media/sultana.png": "/Instagram-Clone/static/media/sultana.fae8161496d4ac7fdd32.png",
+    "static/media/n1.jpg": "/Instagram-Clone/static/media/n1.c90e562ae2311f30f65b.jpg",
+    "static/media/glory.png": "/Instagram-Clone/static/media/glory.bce20fad85400197807f.png",
+    "static/media/Sagir.jpeg": "/Instagram-Clone/static/media/Sagir.398373f08828391fe0d6.jpeg",
+    "static/media/neehal.jpg": "/Instagram-Clone/static/media/neehal.3b9a83d0fcf49d4a10a3.jpg",
+    "static/media/aman.jpg": "/Instagram-Clone/static/media/aman.60e21db6fc9495cdd0c9.jpg",
+    "static/media/pic2.jpg": "/Instagram-Clone/static/media/pic2.48701314836096749a0c.jpg",
+    "static/media/tpost.jpg": "/Instagram-Clone/static/media/tpost.368093da5906575d013f.jpg",
+    "static/media/toufic.jpg": "/Instagram-Clone/static/media/toufic.13c3b5cac0243924ee0f.jpg",
+    "static/media/pulak.jpg": "/Instagram-Clone/static/media/pulak.30250e96cabae5f4b351.jpg",
+    "index.html": "/Instagram-Clone/index.html",
+    "main.faf9a41b.css.map": "/Instagram-Clone/static/css/main.faf9a41b.css.map",
+    "main.07f72ebb.js.map": "/Instagram-Clone/static/js/main.07f72ebb.js.map",
+    "787.c1112931.chunk.js.map": "/Instagram-Clone/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf9a41b.css",
+    "static/js/main.07f72ebb.js"
+  ]
+}
